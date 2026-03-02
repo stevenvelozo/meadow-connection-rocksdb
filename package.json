@@ -1,0 +1,32 @@
+{
+	"name": "meadow-connection-rocksdb",
+	"version": "0.0.1",
+	"description": "Meadow RocksDB Connection Provider",
+	"main": "source/Meadow-Connection-RocksDB.js",
+	"scripts": {
+		"test": "npx mocha -u tdd --exit -R spec --timeout 10000 test/*_test.js",
+		"coverage": "npx nyc -- npx mocha -u tdd --exit -R spec --timeout 10000 test/*_test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/stevenvelozo/meadow-connection-rocksdb.git"
+	},
+	"keywords": [
+		"meadow",
+		"rocksdb",
+		"connection",
+		"database",
+		"key-value"
+	],
+	"author": "Steven Velozo <steven@velozo.com>",
+	"license": "MIT",
+	"dependencies": {
+		"fable-serviceproviderbase": "^3.0.0",
+		"rocksdb": "^5.2.1"
+	},
+	"devDependencies": {
+		"chai": "^4.0.0",
+		"fable": "file:../../fable/fable",
+		"mocha": "^10.0.0"
+	}
+}

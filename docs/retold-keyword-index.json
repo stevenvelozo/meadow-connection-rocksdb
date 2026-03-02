@@ -1,0 +1,3985 @@
+{
+	"Generated": "2026-03-01T21:15:28.765Z",
+	"DocumentCount": 5,
+	"LunrIndex": {
+		"version": "2.3.9",
+		"fields": [
+			"title",
+			"module",
+			"group",
+			"body"
+		],
+		"fieldVectors": [
+			[
+				"title/docs/api/api/closeAsync.md",
+				[
+					0,
+					6.103
+				]
+			],
+			[
+				"module/docs/api/api/closeAsync.md",
+				[
+					1,
+					0.912
+				]
+			],
+			[
+				"group/docs/api/api/closeAsync.md",
+				[
+					2,
+					0.261
+				]
+			],
+			[
+				"body/docs/api/api/closeAsync.md",
+				[
+					0,
+					0.621,
+					3,
+					0.162,
+					4,
+					0.486,
+					5,
+					0.162,
+					6,
+					1.478,
+					7,
+					1.324,
+					8,
+					0.815,
+					9,
+					1.324,
+					10,
+					1.324,
+					11,
+					1.324,
+					12,
+					0.332,
+					13,
+					0.435,
+					14,
+					0.613,
+					15,
+					0.435,
+					16,
+					0.621,
+					17,
+					0.435,
+					18,
+					0.815,
+					19,
+					0.156,
+					20,
+					1.009,
+					21,
+					0.815,
+					22,
+					0.486,
+					23,
+					1.324,
+					24,
+					0.621,
+					25,
+					0.621,
+					26,
+					0.332,
+					27,
+					0.332,
+					28,
+					0.112,
+					29,
+					0.815,
+					30,
+					0.332,
+					31,
+					0.486,
+					32,
+					0.621,
+					33,
+					1.009,
+					34,
+					0.91,
+					35,
+					1.324,
+					36,
+					0.621,
+					37,
+					1.598,
+					38,
+					1.009,
+					39,
+					1.009,
+					40,
+					1.009,
+					41,
+					0.132,
+					42,
+					0.815,
+					43,
+					0.621,
+					44,
+					0.332,
+					45,
+					0.621,
+					46,
+					0.621,
+					47,
+					1.598,
+					48,
+					1.009,
+					49,
+					2.097,
+					50,
+					0.435,
+					51,
+					1.598,
+					52,
+					1.598,
+					53,
+					1.598,
+					54,
+					1.598,
+					55,
+					0.621,
+					56,
+					0.332,
+					57,
+					1.009,
+					58,
+					0.332,
+					59,
+					0.621,
+					60,
+					0.1,
+					61,
+					0.621,
+					62,
+					0.621,
+					63,
+					0.332,
+					64,
+					0.332,
+					65,
+					1.598
+				]
+			],
+			[
+				"title/docs/api/api/connect.md",
+				[
+					28,
+					0.839
+				]
+			],
+			[
+				"module/docs/api/api/connect.md",
+				[
+					1,
+					0.912
+				]
+			],
+			[
+				"group/docs/api/api/connect.md",
+				[
+					2,
+					0.261
+				]
+			],
+			[
+				"body/docs/api/api/connect.md",
+				[
+					3,
+					0.113,
+					5,
+					0.156,
+					12,
+					0.375,
+					13,
+					0.375,
+					19,
+					0.168,
+					21,
+					0.702,
+					22,
+					0.471,
+					27,
+					0.375,
+					28,
+					0.139,
+					30,
+					0.375,
+					31,
+					0.471,
+					35,
+					1.141,
+					39,
+					1.141,
+					41,
+					0.113,
+					44,
+					0.375,
+					50,
+					0.515,
+					55,
+					0.702,
+					56,
+					0.375,
+					57,
+					1.141,
+					58,
+					0.375,
+					59,
+					0.882,
+					64,
+					0.375,
+					66,
+					0.702,
+					67,
+					1.141,
+					68,
+					0.702,
+					69,
+					2.269,
+					70,
+					0.702,
+					71,
+					2.269,
+					72,
+					1.141,
+					73,
+					0.702,
+					74,
+					1.806,
+					75,
+					1.141,
+					76,
+					1.433,
+					77,
+					1.433,
+					78,
+					1.806,
+					79,
+					1.806,
+					80,
+					1.433,
+					81,
+					0.882,
+					82,
+					1.806,
+					83,
+					1.806,
+					84,
+					2.269,
+					85,
+					1.806,
+					86,
+					1.806,
+					87,
+					1.141,
+					88,
+					1.806,
+					89,
+					0.702,
+					90,
+					1.806,
+					91,
+					1.806,
+					92,
+					1.806,
+					93,
+					1.806,
+					94,
+					1.806,
+					95,
+					1.806,
+					96,
+					1.806,
+					97,
+					1.806,
+					98,
+					1.806,
+					99,
+					1.806,
+					100,
+					1.806,
+					101,
+					1.806,
+					102,
+					1.806,
+					103,
+					1.806,
+					104,
+					1.806,
+					105,
+					0.702
+				]
+			],
+			[
+				"title/docs/api/api/connectAsync.md",
+				[
+					106,
+					6.103
+				]
+			],
+			[
+				"module/docs/api/api/connectAsync.md",
+				[
+					1,
+					0.912
+				]
+			],
+			[
+				"group/docs/api/api/connectAsync.md",
+				[
+					2,
+					0.261
+				]
+			],
+			[
+				"body/docs/api/api/connectAsync.md",
+				[
+					3,
+					0.097,
+					4,
+					0.51,
+					5,
+					0.165,
+					12,
+					0.322,
+					13,
+					0.427,
+					14,
+					0.615,
+					15,
+					0.427,
+					16,
+					0.603,
+					17,
+					0.427,
+					18,
+					0.603,
+					19,
+					0.129,
+					20,
+					0.98,
+					21,
+					0.8,
+					22,
+					0.51,
+					23,
+					0.98,
+					24,
+					0.8,
+					25,
+					0.603,
+					26,
+					0.479,
+					27,
+					0.322,
+					28,
+					0.147,
+					29,
+					0.603,
+					30,
+					0.427,
+					31,
+					0.479,
+					32,
+					0.8,
+					34,
+					0.603,
+					41,
+					0.129,
+					42,
+					0.8,
+					43,
+					0.603,
+					44,
+					0.322,
+					46,
+					0.8,
+					56,
+					0.427,
+					58,
+					0.322,
+					60,
+					0.097,
+					61,
+					0.603,
+					62,
+					0.603,
+					63,
+					0.531,
+					66,
+					0.603,
+					67,
+					0.98,
+					68,
+					0.603,
+					73,
+					0.897,
+					105,
+					0.603,
+					106,
+					0.603,
+					107,
+					1.457,
+					108,
+					1.299,
+					109,
+					1.299,
+					110,
+					0.98,
+					111,
+					2.057,
+					112,
+					1.552,
+					113,
+					1.299,
+					114,
+					0.98,
+					115,
+					0.603,
+					116,
+					1.552,
+					117,
+					1.552,
+					118,
+					2.057,
+					119,
+					0.98,
+					120,
+					0.98,
+					121,
+					0.98,
+					122,
+					1.552,
+					123,
+					0.98,
+					124,
+					0.98,
+					125,
+					0.98,
+					126,
+					1.552
+				]
+			],
+			[
+				"title/docs/api/api/db.md",
+				[
+					60,
+					0.74,
+					127,
+					4.586
+				]
+			],
+			[
+				"module/docs/api/api/db.md",
+				[
+					1,
+					0.912
+				]
+			],
+			[
+				"group/docs/api/api/db.md",
+				[
+					2,
+					0.261
+				]
+			],
+			[
+				"body/docs/api/api/db.md",
+				[
+					3,
+					0.09,
+					4,
+					0.459,
+					5,
+					0.161,
+					8,
+					0.555,
+					12,
+					0.296,
+					14,
+					0.62,
+					15,
+					0.403,
+					17,
+					0.403,
+					19,
+					0.149,
+					26,
+					0.296,
+					28,
+					0.127,
+					36,
+					0.555,
+					41,
+					0.09,
+					43,
+					0.555,
+					44,
+					0.296,
+					45,
+					0.555,
+					50,
+					0.296,
+					58,
+					0.296,
+					59,
+					0.555,
+					60,
+					0.09,
+					63,
+					0.459,
+					64,
+					0.516,
+					70,
+					0.997,
+					81,
+					0.555,
+					89,
+					0.756,
+					105,
+					0.555,
+					115,
+					0.756,
+					127,
+					0.555,
+					128,
+					1.426,
+					129,
+					1.619,
+					130,
+					1.396,
+					131,
+					1.227,
+					132,
+					1.426,
+					133,
+					1.426,
+					134,
+					0.901,
+					135,
+					1.426,
+					136,
+					0.901,
+					137,
+					1.426,
+					138,
+					0.901,
+					139,
+					1.426,
+					140,
+					1.426,
+					141,
+					0.901,
+					142,
+					1.426,
+					143,
+					0.901,
+					144,
+					0.901,
+					145,
+					1.396,
+					146,
+					1.426,
+					147,
+					0.901,
+					148,
+					1.426,
+					149,
+					1.426,
+					150,
+					1.499,
+					151,
+					1.944,
+					152,
+					1.944,
+					153,
+					1.227,
+					154,
+					1.944,
+					155,
+					1.227,
+					156,
+					1.944,
+					157,
+					1.944,
+					158,
+					2.211,
+					159,
+					1.426,
+					160,
+					0.901,
+					161,
+					1.944,
+					162,
+					1.426,
+					163,
+					1.426,
+					164,
+					1.227,
+					165,
+					1.227,
+					166,
+					1.944,
+					167,
+					1.944,
+					168,
+					1.426,
+					169,
+					0.901,
+					170,
+					1.426,
+					171,
+					0.901
+				]
+			],
+			[
+				"title/docs/api/api/reference.md",
+				[
+					1,
+					1.551,
+					172,
+					7.449
+				]
+			],
+			[
+				"module/docs/api/api/reference.md",
+				[
+					1,
+					0.912
+				]
+			],
+			[
+				"group/docs/api/api/reference.md",
+				[
+					2,
+					0.261
+				]
+			],
+			[
+				"body/docs/api/api/reference.md",
+				[
+					0,
+					0.359,
+					1,
+					0.187,
+					3,
+					0.108,
+					4,
+					0.515,
+					5,
+					0.161,
+					6,
+					0.584,
+					7,
+					0.584,
+					8,
+					0.552,
+					9,
+					0.584,
+					10,
+					0.584,
+					11,
+					0.584,
+					13,
+					0.358,
+					14,
+					0.619,
+					15,
+					0.476,
+					16,
+					0.671,
+					17,
+					0.402,
+					18,
+					0.552,
+					19,
+					0.138,
+					22,
+					0.458,
+					24,
+					0.552,
+					25,
+					0.359,
+					26,
+					0.192,
+					27,
+					0.294,
+					28,
+					0.14,
+					29,
+					0.359,
+					30,
+					0.358,
+					31,
+					0.492,
+					32,
+					0.671,
+					33,
+					0.896,
+					34,
+					0.359,
+					36,
+					0.359,
+					38,
+					0.584,
+					40,
+					1.09,
+					41,
+					0.122,
+					42,
+					0.921,
+					45,
+					0.753,
+					46,
+					0.552,
+					48,
+					0.896,
+					50,
+					0.402,
+					55,
+					0.359,
+					56,
+					0.476,
+					60,
+					0.058,
+					61,
+					0.552,
+					62,
+					0.359,
+					63,
+					0.358,
+					64,
+					0.358,
+					66,
+					0.359,
+					68,
+					0.359,
+					70,
+					0.857,
+					72,
+					0.584,
+					73,
+					0.753,
+					75,
+					0.584,
+					76,
+					0.584,
+					77,
+					0.584,
+					80,
+					0.584,
+					81,
+					0.552,
+					87,
+					0.584,
+					89,
+					0.359,
+					106,
+					0.359,
+					107,
+					1.319,
+					108,
+					1.319,
+					109,
+					0.896,
+					110,
+					0.584,
+					113,
+					1.223,
+					114,
+					1.09,
+					115,
+					0.753,
+					119,
+					0.896,
+					120,
+					1.223,
+					121,
+					0.584,
+					123,
+					0.584,
+					124,
+					0.584,
+					125,
+					0.584,
+					127,
+					0.359,
+					129,
+					1.534,
+					130,
+					1.319,
+					131,
+					0.896,
+					134,
+					0.896,
+					136,
+					0.896,
+					138,
+					0.584,
+					141,
+					0.584,
+					143,
+					0.896,
+					144,
+					0.896,
+					145,
+					0.896,
+					147,
+					0.584,
+					150,
+					1.223,
+					153,
+					0.584,
+					155,
+					0.584,
+					160,
+					0.584,
+					164,
+					0.896,
+					165,
+					0.584,
+					169,
+					0.584,
+					171,
+					0.584,
+					172,
+					0.896,
+					173,
+					0.924,
+					174,
+					0.924,
+					175,
+					0.924,
+					176,
+					1.419,
+					177,
+					1.419,
+					178,
+					0.924,
+					179,
+					2.089,
+					180,
+					0.924,
+					181,
+					0.924,
+					182,
+					1.419,
+					183,
+					0.924,
+					184,
+					0.924,
+					185,
+					0.924,
+					186,
+					0.924,
+					187,
+					1.419,
+					188,
+					0.924,
+					189,
+					0.924,
+					190,
+					0.924,
+					191,
+					0.924,
+					192,
+					0.924,
+					193,
+					0.924,
+					194,
+					0.924,
+					195,
+					0.924,
+					196,
+					0.924,
+					197,
+					0.924,
+					198,
+					0.924,
+					199,
+					1.419,
+					200,
+					1.419,
+					201,
+					0.924,
+					202,
+					0.924,
+					203,
+					0.924,
+					204,
+					0.924,
+					205,
+					0.924,
+					206,
+					1.419,
+					207,
+					1.419,
+					208,
+					0.924,
+					209,
+					0.924,
+					210,
+					0.924,
+					211,
+					0.924,
+					212,
+					0.924,
+					213,
+					0.924,
+					214,
+					0.924,
+					215,
+					0.924,
+					216,
+					0.924,
+					217,
+					0.924,
+					218,
+					1.419,
+					219,
+					0.924,
+					220,
+					0.924,
+					221,
+					0.924,
+					222,
+					0.924,
+					223,
+					0.924,
+					224,
+					0.924,
+					225,
+					0.924,
+					226,
+					0.924,
+					227,
+					0.924,
+					228,
+					0.924,
+					229,
+					0.924,
+					230,
+					0.924
+				]
+			]
+		],
+		"invertedIndex": [
+			[
+				"",
+				{
+					"_index": 14,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"accept",
+				{
+					"_index": 90,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"access",
+				{
+					"_index": 61,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"against",
+				{
+					"_index": 117,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {}
+					}
+				}
+			],
+			[
+				"aggreg",
+				{
+					"_index": 213,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"allow",
+				{
+					"_index": 38,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"alreadi",
+				{
+					"_index": 46,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"alway",
+				{
+					"_index": 169,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"anoth",
+				{
+					"_index": 39,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"api",
+				{
+					"_index": 1,
+					"title": {
+						"docs/api/api/reference.md": {}
+					},
+					"module": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"appli",
+				{
+					"_index": 200,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"applic",
+				{
+					"_index": 48,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"argument",
+				{
+					"_index": 21,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {}
+					}
+				}
+			],
+			[
+				"async",
+				{
+					"_index": 104,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"async/await",
+				{
+					"_index": 230,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"atom",
+				{
+					"_index": 141,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"attempt",
+				{
+					"_index": 88,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"avail",
+				{
+					"_index": 131,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"back",
+				{
+					"_index": 32,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"base",
+				{
+					"_index": 224,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"basic",
+				{
+					"_index": 43,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"batch",
+				{
+					"_index": 199,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"batch(oper",
+				{
+					"_index": 139,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"befor",
+				{
+					"_index": 89,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"behavior",
+				{
+					"_index": 27,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"bind",
+				{
+					"_index": 178,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"boolean",
+				{
+					"_index": 158,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"both",
+				{
+					"_index": 197,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"bound",
+				{
+					"_index": 201,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"buffer",
+				{
+					"_index": 164,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"c",
+				{
+					"_index": 221,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"call",
+				{
+					"_index": 31,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"callback",
+				{
+					"_index": 19,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"caller",
+				{
+					"_index": 95,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"case",
+				{
+					"_index": 101,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"check",
+				{
+					"_index": 167,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"choic",
+				{
+					"_index": 103,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"class",
+				{
+					"_index": 173,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"close",
+				{
+					"_index": 3,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"closeasync",
+				{
+					"_index": 105,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"closeasync(fcallback",
+				{
+					"_index": 0,
+					"title": {
+						"docs/api/api/closeAsync.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"code",
+				{
+					"_index": 87,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"compat",
+				{
+					"_index": 91,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"compil",
+				{
+					"_index": 218,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"concurr",
+				{
+					"_index": 208,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"condit",
+				{
+					"_index": 77,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"configur",
+				{
+					"_index": 107,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"connect",
+				{
+					"_index": 28,
+					"title": {
+						"docs/api/api/connect.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"connectasync",
+				{
+					"_index": 59,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"connectasync(fcallback",
+				{
+					"_index": 106,
+					"title": {
+						"docs/api/api/connectAsync.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"construct",
+				{
+					"_index": 182,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"constructor",
+				{
+					"_index": 114,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"conveni",
+				{
+					"_index": 67,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {}
+					}
+				}
+			],
+			[
+				"correct",
+				{
+					"_index": 102,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"creat",
+				{
+					"_index": 143,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"data",
+				{
+					"_index": 54,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {}
+					}
+				}
+			],
+			[
+				"databas",
+				{
+					"_index": 5,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"db",
+				{
+					"_index": 60,
+					"title": {
+						"docs/api/api/db.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"default",
+				{
+					"_index": 165,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"del(key",
+				{
+					"_index": 137,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"delet",
+				{
+					"_index": 138,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"descript",
+				{
+					"_index": 17,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"detect",
+				{
+					"_index": 71,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"differ",
+				{
+					"_index": 190,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"direct",
+				{
+					"_index": 128,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"directli",
+				{
+					"_index": 189,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"disk",
+				{
+					"_index": 37,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {}
+					}
+				}
+			],
+			[
+				"doc",
+				{
+					"_index": 2,
+					"title": {},
+					"module": {},
+					"group": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					},
+					"body": {}
+				}
+			],
+			[
+				"doubl",
+				{
+					"_index": 118,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {}
+					}
+				}
+			],
+			[
+				"dure",
+				{
+					"_index": 51,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {}
+					}
+				}
+			],
+			[
+				"e.g",
+				{
+					"_index": 97,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"end",
+				{
+					"_index": 157,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"ensur",
+				{
+					"_index": 53,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {}
+					}
+				}
+			],
+			[
+				"entri",
+				{
+					"_index": 163,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"environ",
+				{
+					"_index": 223,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"equal",
+				{
+					"_index": 152,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"error",
+				{
+					"_index": 22,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"event",
+				{
+					"_index": 119,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"except",
+				{
+					"_index": 79,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"exclus",
+				{
+					"_index": 155,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"execut",
+				{
+					"_index": 140,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"exist",
+				{
+					"_index": 30,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"expos",
+				{
+					"_index": 132,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"extend",
+				{
+					"_index": 175,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"fabl",
+				{
+					"_index": 113,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"fable'",
+				{
+					"_index": 193,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"fail",
+				{
+					"_index": 25,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"fals",
+				{
+					"_index": 65,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {}
+					}
+				}
+			],
+			[
+				"file",
+				{
+					"_index": 10,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"filter",
+				{
+					"_index": 212,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"fire",
+				{
+					"_index": 92,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"flush",
+				{
+					"_index": 6,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"folder",
+				{
+					"_index": 108,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"forget",
+				{
+					"_index": 93,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"function",
+				{
+					"_index": 18,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"get(key",
+				{
+					"_index": 135,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"getter",
+				{
+					"_index": 127,
+					"title": {
+						"docs/api/api/db.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"go",
+				{
+					"_index": 194,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"grace",
+				{
+					"_index": 52,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {}
+					}
+				}
+			],
+			[
+				"greater",
+				{
+					"_index": 151,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"guard",
+				{
+					"_index": 116,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {}
+					}
+				}
+			],
+			[
+				"handl",
+				{
+					"_index": 29,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"happen",
+				{
+					"_index": 214,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"here",
+				{
+					"_index": 195,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"idempot",
+				{
+					"_index": 186,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"identifi",
+				{
+					"_index": 181,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"immedi",
+				{
+					"_index": 33,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"inclus",
+				{
+					"_index": 153,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"instal",
+				{
+					"_index": 222,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"instanc",
+				{
+					"_index": 63,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"integr",
+				{
+					"_index": 192,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"intern",
+				{
+					"_index": 57,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"iter",
+				{
+					"_index": 145,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"iterator(opt",
+				{
+					"_index": 142,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"key",
+				{
+					"_index": 129,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"know",
+				{
+					"_index": 83,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"known",
+				{
+					"_index": 204,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"languag",
+				{
+					"_index": 211,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"layer",
+				{
+					"_index": 216,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"lead",
+				{
+					"_index": 86,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"less",
+				{
+					"_index": 156,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"level",
+				{
+					"_index": 203,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"leveldown",
+				{
+					"_index": 177,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"lexicograph",
+				{
+					"_index": 202,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"limit",
+				{
+					"_index": 205,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"lock",
+				{
+					"_index": 11,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"log",
+				{
+					"_index": 73,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"loop",
+				{
+					"_index": 100,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"manag",
+				{
+					"_index": 176,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"manifest",
+				{
+					"_index": 180,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"maximum",
+				{
+					"_index": 162,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"meadow",
+				{
+					"_index": 215,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"meadowconnectionrocksdb",
+				{
+					"_index": 174,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"mechan",
+				{
+					"_index": 96,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"messag",
+				{
+					"_index": 123,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"method",
+				{
+					"_index": 81,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"miss",
+				{
+					"_index": 72,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"multi",
+				{
+					"_index": 210,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"multipl",
+				{
+					"_index": 45,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"nativ",
+				{
+					"_index": 217,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"need",
+				{
+					"_index": 229,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"node.j",
+				{
+					"_index": 225,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"none",
+				{
+					"_index": 69,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"npm",
+				{
+					"_index": 219,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"null",
+				{
+					"_index": 111,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {}
+					}
+				}
+			],
+			[
+				"number",
+				{
+					"_index": 161,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"object",
+				{
+					"_index": 24,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"occur",
+				{
+					"_index": 85,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"op",
+				{
+					"_index": 35,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"open",
+				{
+					"_index": 41,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"oper",
+				{
+					"_index": 130,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"option",
+				{
+					"_index": 115,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"order",
+				{
+					"_index": 160,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"overrid",
+				{
+					"_index": 125,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"packag",
+				{
+					"_index": 220,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"pair",
+				{
+					"_index": 134,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"paramet",
+				{
+					"_index": 13,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"pass",
+				{
+					"_index": 188,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"path",
+				{
+					"_index": 109,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"pattern",
+				{
+					"_index": 94,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"pend",
+				{
+					"_index": 7,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"per",
+				{
+					"_index": 124,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"poll",
+				{
+					"_index": 98,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"potenti",
+				{
+					"_index": 75,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"prefer",
+				{
+					"_index": 80,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"prefix",
+				{
+					"_index": 148,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"prevent",
+				{
+					"_index": 78,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"process",
+				{
+					"_index": 40,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"promis",
+				{
+					"_index": 227,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"properti",
+				{
+					"_index": 171,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"provid",
+				{
+					"_index": 56,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"put",
+				{
+					"_index": 196,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"put(key",
+				{
+					"_index": 133,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"queri",
+				{
+					"_index": 147,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"race",
+				{
+					"_index": 76,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"rang",
+				{
+					"_index": 146,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"raw",
+				{
+					"_index": 62,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"read",
+				{
+					"_index": 136,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"readi",
+				{
+					"_index": 84,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"receiv",
+				{
+					"_index": 20,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {}
+					}
+				}
+			],
+			[
+				"refer",
+				{
+					"_index": 172,
+					"title": {
+						"docs/api/api/reference.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"registr",
+				{
+					"_index": 191,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"relat",
+				{
+					"_index": 58,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"releas",
+				{
+					"_index": 9,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"reli",
+				{
+					"_index": 170,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"remov",
+				{
+					"_index": 198,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"requir",
+				{
+					"_index": 16,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"retri",
+				{
+					"_index": 99,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"return",
+				{
+					"_index": 64,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"revers",
+				{
+					"_index": 159,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"rocksdb",
+				{
+					"_index": 4,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"safe",
+				{
+					"_index": 34,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"safeti",
+				{
+					"_index": 122,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {}
+					}
+				}
+			],
+			[
+				"scan",
+				{
+					"_index": 149,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"servic",
+				{
+					"_index": 179,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"servicetyp",
+				{
+					"_index": 184,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"set",
+				{
+					"_index": 42,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"shutdown",
+				{
+					"_index": 49,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {}
+					}
+				}
+			],
+			[
+				"signatur",
+				{
+					"_index": 12,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"singl",
+				{
+					"_index": 206,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"sort",
+				{
+					"_index": 144,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"specif",
+				{
+					"_index": 126,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {}
+					}
+				}
+			],
+			[
+				"specifi",
+				{
+					"_index": 185,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"sql",
+				{
+					"_index": 209,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"start",
+				{
+					"_index": 154,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"state",
+				{
+					"_index": 168,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"string",
+				{
+					"_index": 150,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"style",
+				{
+					"_index": 226,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"success",
+				{
+					"_index": 26,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"support",
+				{
+					"_index": 207,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"synchron",
+				{
+					"_index": 66,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"system",
+				{
+					"_index": 121,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"through",
+				{
+					"_index": 120,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"thrown",
+				{
+					"_index": 47,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {}
+					}
+				}
+			],
+			[
+				"time",
+				{
+					"_index": 187,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"true",
+				{
+					"_index": 166,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"type",
+				{
+					"_index": 15,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"undefin",
+				{
+					"_index": 23,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connectAsync.md": {}
+					}
+				}
+			],
+			[
+				"underli",
+				{
+					"_index": 36,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"us",
+				{
+					"_index": 50,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"usag",
+				{
+					"_index": 44,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/db.md": {}
+					}
+				}
+			],
+			[
+				"valid",
+				{
+					"_index": 112,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {}
+					}
+				}
+			],
+			[
+				"valu",
+				{
+					"_index": 70,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"warn",
+				{
+					"_index": 74,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"way",
+				{
+					"_index": 82,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {}
+					}
+				}
+			],
+			[
+				"whether",
+				{
+					"_index": 183,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"without",
+				{
+					"_index": 55,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/connect.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"wrap",
+				{
+					"_index": 228,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"wrapper",
+				{
+					"_index": 68,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connect.md": {},
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"write",
+				{
+					"_index": 8,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/closeAsync.md": {},
+						"docs/api/api/db.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			],
+			[
+				"ye",
+				{
+					"_index": 110,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"docs/api/api/connectAsync.md": {},
+						"docs/api/api/reference.md": {}
+					}
+				}
+			]
+		],
+		"pipeline": [
+			"stemmer"
+		]
+	},
+	"Documents": {
+		"docs/api/api/closeAsync.md": {
+			"Title": "closeAsync(fCallback)",
+			"Module": "api",
+			"Group": "docs",
+			"DocPath": "api/closeAsync.md"
+		},
+		"docs/api/api/connect.md": {
+			"Title": "connect()",
+			"Module": "api",
+			"Group": "docs",
+			"DocPath": "api/connect.md"
+		},
+		"docs/api/api/connectAsync.md": {
+			"Title": "connectAsync(fCallback)",
+			"Module": "api",
+			"Group": "docs",
+			"DocPath": "api/connectAsync.md"
+		},
+		"docs/api/api/db.md": {
+			"Title": "db (getter)",
+			"Module": "api",
+			"Group": "docs",
+			"DocPath": "api/db.md"
+		},
+		"docs/api/api/reference.md": {
+			"Title": "API Reference",
+			"Module": "api",
+			"Group": "docs",
+			"DocPath": "api/reference.md"
+		}
+	}
+}
