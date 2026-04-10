@@ -1,4 +1,4 @@
-# Meadow Connection RocksDB <small>0</small>
+# Meadow Connection RocksDB
 
 > Embedded key-value database provider for the Meadow data layer
 

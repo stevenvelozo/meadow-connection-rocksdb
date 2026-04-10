@@ -1,0 +1,7 @@
+{
+	"Name": "meadow-connection-rocksdb",
+	"Version": "0.0.2",
+	"Description": "Meadow RocksDB Connection Provider",
+	"GeneratedAt": "2026-04-10T01:49:50.171Z",
+	"GitCommit": "f39da4e"
+}
